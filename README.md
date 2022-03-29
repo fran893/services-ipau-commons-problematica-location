@@ -4,7 +4,7 @@ Este repositorio contiene el **modelo** en común para el uso a través de los s
 
 ## Descripción
 
-Este modelo representa una problemática creada por el usuario utilizando utilizando la aplicación **IPAU**. Esta problemática tendrá los siguiente atributos:
+Este modelo representa una problemática creada por el usuario utilizando la aplicación **IPAU**. Esta problemática tendrá los siguientes atributos:
 - descripcion: texto que el usuario agrega sobre la problemática
 - latitud: latitud de la problemática en el mapa
 - longitud: longitud de la problemática en el mapa
